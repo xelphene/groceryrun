@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Grocery Run</string>
+    <string name="inventory_button">Inventory</string>
+
+    <string name="inventory_view_toolbar_title">View Inventory</string>
+
+    <string name="inventory_add">Add Inventory Item</string>
+    <string name="inventory_add_description">Description</string>
+    <string name="inventory_add_add_button">Add</string>
+    <string name="inventory_add_cancel_button">Cancel</string>
+    <string name="inventory_add_toolbar_title">Add Inventory Item</string>
+
+    <string name="inventory_reorder_toolbar_title">Reorder Inventory</string>
+
+    <string name="inventory_check_toolbar_title">Inventory</string>
+    <string name="inventory_check_row_addbutton">Add</string>
+    <string name="inventory_check_row_removebutton">Remove</string>
+
+    <string name="fragment_add_edit_inventory_item_save_button">Save</string>
+    <string name="fragment_add_edit_inventory_item_cancel_button">Cancel</string>
+    <string name="fragment_add_edit_inventory_item_description_hint">Description</string>
+    <string name="activity_quick_add_toolbar_title">Quick Add</string>
+    <string name="title_activity_import">Import Activity</string>
+
+
+</resources>
