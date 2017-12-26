@@ -20,7 +20,13 @@ shopping lists with drag and drop.
 
 # Screen Shots
 
+![Edit Inventory Screen Shot](doc/screenshot/edit_inventory.png)
+
 ![Check Inventory Screen Shot](doc/screenshot/check_inventory.png)
+
+![Quick Add Screen Shot](doc/screenshot/quick_add.png)
+
+![Set Shopping Order Screen Shot](doc/screenshot/shopping_order.png)
 
 # Copyright and License
 
